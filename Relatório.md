@@ -34,4 +34,12 @@ Este programa foi desenvolvido em Python e utiliza o banco de dados SQLite, devi
 ## Menu de Opções:
 
 Imagens:
-![Funcionalidade "Inserir Produtos"](C:\Users\Teh\OneDrive\Pictures\PJ - Python\1)
+![1](https://github.com/user-attachments/assets/320f5d0a-408e-4fdd-9b85-ab5865efe2b0)
+
+![2](https://github.com/user-attachments/assets/c890dedf-95e9-44f1-ac61-67f8de3107a9)
+
+![3](https://github.com/user-attachments/assets/dd00fe89-00cf-4b7e-918c-aba88346b019)
+
+![4](https://github.com/user-attachments/assets/ac310b90-6d82-44e7-a778-1dc65ff8c0cb)
+
+![5](https://github.com/user-attachments/assets/65b2275b-b7dd-49d5-9ee6-7cbccf06c9e3)
