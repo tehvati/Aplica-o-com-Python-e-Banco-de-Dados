@@ -34,6 +34,7 @@ Este programa foi desenvolvido em Python e utiliza o banco de dados SQLite, devi
 ## Menu de Opções:
 
 Imagens:
+
 ![1](https://github.com/user-attachments/assets/320f5d0a-408e-4fdd-9b85-ab5865efe2b0)
 
 ![2](https://github.com/user-attachments/assets/c890dedf-95e9-44f1-ac61-67f8de3107a9)
