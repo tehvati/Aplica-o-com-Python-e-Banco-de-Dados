@@ -4,7 +4,7 @@
 * Letícia Valença Timótio - 202402534351
 * Thiago Matias Rodrigues - 202403475171
 
-Este programa foi desenvolvido em Python e utiliza o banco de dados SQLite, devida sua praticidade e por ser completa para o objetivo, com a finalidade de realizar operações de CRUD (Create, Read, Update, Delete) em uma tabela de produtos. Este programa é útil para praticar operações com banco de dados em Python de forma simples e funcional.
+Este programa foi desenvolvido em Python e utiliza o banco de dados SQLite, com a biblioteca sqlite3 devida sua praticidade e por ser completa para o objetivo, com a finalidade de realizar operações de CRUD (Create, Read, Update, Delete) em uma tabela de produtos. Este programa é útil para praticar operações com banco de dados em Python de forma simples e funcional.
 
 ## 1. Conectar ao banco de dados:
 
